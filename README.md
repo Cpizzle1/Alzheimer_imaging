@@ -1,4 +1,6 @@
-# Background & Motviation
+
+# Alzheimer prediction from brain imaging (Deep Learning with tensorflow/keras)
+## Background & Motviation
 Alzheimer's disease, a progressive neurodegenerative disorder, is the most common cause of dementia in the elderly population. Early diagnosis of this condition is crucial, as it allows for timely intervention and better management, potentially slowing down its progression. Traditional diagnostic methods involve cognitive testing and medical examinations which, while effective, can sometimes be inconclusive or lead to late-stage diagnosis when the disease has already advanced.
 
 Recent advancements in neuroimaging have revealed distinct patterns and changes in the brains of Alzheimer's patients. Techniques such as Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET) scans have become invaluable tools in the identification of structural and functional anomalies linked to the disease. However, the interpretation of these imaging modalities can be complex and time-consuming, requiring expert radiologists to identify subtle changes in the brain.
@@ -23,7 +25,7 @@ The test data set includes:
 
 <br>
 
-![Looking at the Data ](images/4imgs_eda.jpg)
+![Looking at the Data ](images/4imgs_example.jpg)
 
 <br> 
 
@@ -33,7 +35,7 @@ The test data set includes:
 <br>
 
 
-![Averages_of_Brains ](images/4imgs_data.jpg)
+![Averages_of_Brains ](images/4imgs_average.jpg)
 
 <br> 
 
