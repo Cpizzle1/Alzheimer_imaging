@@ -35,7 +35,7 @@ The test data set includes:
 <br>
 
 
-![Averages_of_Brains ](images/4imgs_average.jpg)
+![Averages_of_Brains ](images/average.jpg)
 
 <br> 
 
